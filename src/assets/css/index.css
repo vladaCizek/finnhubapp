@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+/* import 'currency-flasgs/dist/currency-flags.min.css' */
+@tailwind utilities;
